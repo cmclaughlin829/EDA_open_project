@@ -13,7 +13,7 @@ The first documented use of crime statistics as a basis for deployment of resour
 Since being adopted by the NYPD more than two decades ago, various other local law enforcement agencies have followed suit.  Though strategies differ, the overall goal is to track crime over time to allow for targeted interventions.  For our analysis crimes were divided by community to allow for concurrent evaluation of community level socioeconomic data.  Geographical coordinates were provided with the data as well, which would allow for a more refined approach if time allowed.
 
 ### Approach
-The crime data was acquired from [kaggle](https://www.kaggle.com/currie32/crimes-in-chicago).  The data was originally extracted from the Chicago Police Department's CLEAR (Citezen Law Enforcement Analysis and Reporting) system.  Data was available for the years of 2001-2017.  For simplicity, our analysis only covers the years 2008 - 2011.
+The crime data was acquired from [kaggle](https://www.kaggle.com/currie32/crimes-in-chicago).  The data was originally extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.  Data was available for the years of 2001-2017.  For simplicity, our analysis only covers the years 2008 - 2011.
 
 To aid in our analysis, socioeconomic data for the years 2008-2012 was acquired from the [Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2).  Finally, population data was obtained from the [City of Chicago](https://www.cityofchicago.org/city/en/depts/dcd/supp_info/community_area_2000and2010censuspopulationcomparisons.html).
 

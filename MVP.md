@@ -9,7 +9,7 @@ A data set cataloging each crime committed within the City of Chicago for the ti
 
 events containing null values in the community_area_name field were removed to allow for summarizing the data by neighborhood in future steps.  This affected less than 1,500 of the approximately 2.5 million events.
 
-To aid in our analysis, additional data for socioeconomic factors for each community over the same time period was downloded from the Chicago Data Portal. (https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2).  Population data from the 2010 census was also acquired. (https://www.cityofchicago.org/city/en/depts/dcd/supp_info/community_area_2000and2010censuspopulationcomparisons.html)
+To aid in our analysis, additional data for socioeconomic factors for each community over the same time period was downloaded from the Chicago Data Portal. (https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2).  Population data from the 2010 census was also acquired. (https://www.cityofchicago.org/city/en/depts/dcd/supp_info/community_area_2000and2010censuspopulationcomparisons.html)
 
 Data from the crimes data set was resampled by month and plotted along with the corresponding arrests.
 
